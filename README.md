@@ -10,7 +10,7 @@ Empower yourself with the Command-Line Employee Management tool—a sophisticate
 - Throughout the development of this project, I honed my skills with Inquirer, leveraging user input to dynamically shape and transform data within tables using the power of SQL queries. 
 
 ## Installation 
-- N/A
+N/A
 
 ## Usage 
 1. Install the required deppendencies using NPM:
@@ -48,3 +48,8 @@ Empower yourself with the Command-Line Employee Management tool—a sophisticate
    node index
    ```
 
+## Credits 
+N/A
+
+## License 
+No license provided
